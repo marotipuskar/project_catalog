@@ -33,7 +33,7 @@ export default function App() {
         <div className="flex flex-col items-center">
           {/* Replace this with a suitable GIF */}
           <img
-            src="7efs.gif"
+            src="https://i.gifer.com/7efs.gif"
             alt="Success GIF"
             className=" h-32 mb-3"
           />
